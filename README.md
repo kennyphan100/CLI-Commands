@@ -33,11 +33,11 @@ https://hub.docker.com/repository/docker/kennyphan/commander
 
 ### Preview of REST API with Swagger UI:
 https://user-images.githubusercontent.com/66841718/148302330-6dff71eb-338a-4255-a74e-f43fb5cd4d96.mp4
-<br/>
+
 
 ### Example of [HttpGet]:
 https://user-images.githubusercontent.com/66841718/148302232-97630145-be63-4505-a9d3-5cce051aa01b.mp4
-<br/>
+
 
 
 
