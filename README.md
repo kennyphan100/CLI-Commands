@@ -12,7 +12,7 @@ In this project, I built a RESTful API which returns Linux CLI commands that are
 * Data Access (DB Context) using Entity Framework
 * Data Transfer Objects (DTOs)
 * Automapper
-* Testing API Endpoints with Postman & SwaggeUI
+* Testing API Endpoints with Postman & Swagger UI
 * HTTP Methods (GET, POST, PUT, PATCH, DELETE)
 * Docker
   * Containers & Images
