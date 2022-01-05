@@ -31,16 +31,15 @@ https://hub.docker.com/repository/docker/kennyphan/commander
 ![API_end_points](https://user-images.githubusercontent.com/66841718/148300523-49d12c9a-b08c-4e3b-aa72-88f0cc316aaa.png)
 
 
-### Swagger UI Preview:
-![Screenshot 2022-01-05 163656](https://user-images.githubusercontent.com/66841718/148300475-a182efd3-4396-4607-bb5a-ceb6f4f7c818.png)
-
-
 ### Preview of REST API with Swagger UI:
-https://user-images.githubusercontent.com/66841718/148301581-30fdc0fb-8785-44eb-9c7e-9fe2e95a0067.mp4
+https://user-images.githubusercontent.com/66841718/148302226-8de99c91-45f0-41e4-be6b-1ef145479fc6.mp4
+
 
 
 
 ### Example of [HttpGet]:
+https://user-images.githubusercontent.com/66841718/148302232-97630145-be63-4505-a9d3-5cce051aa01b.mp4
+
 
 
 
