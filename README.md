@@ -15,9 +15,9 @@ In this project, I built a RESTful API which returns Linux CLI commands that are
 * Testing API Endpoints with Postman & SwaggeUI
 * HTTP Methods (GET, POST, PUT, PATCH, DELETE)
 * Docker
- * Containers & Images
- * Deploy to Docker Hub
- * Docker compose (multi-container application)
+  * Containers & Images
+  * Deploy to Docker Hub
+  * Docker compose (multi-container application)
 
 Docker Image:
 https://hub.docker.com/repository/docker/kennyphan/commander
