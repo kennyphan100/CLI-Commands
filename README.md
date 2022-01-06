@@ -36,15 +36,23 @@ https://user-images.githubusercontent.com/66841718/148302330-6dff71eb-338a-4255-
 
 <br/>
 
-### Example of [HttpGet]:
+### Example of [HttpGET]:
 https://user-images.githubusercontent.com/66841718/148302232-97630145-be63-4505-a9d3-5cce051aa01b.mp4
 
 <br/>
 
-### Example of [HttpPost]:
+### Example of [HttpPOST]:
 https://user-images.githubusercontent.com/66841718/148302569-a0b29535-897b-43bf-a4a3-dd15a1b4ed2a.mp4
 
+<br/>
 
+### Example of [HttpPUT]:
+https://user-images.githubusercontent.com/66841718/148310986-ce6285b5-086f-4c6f-b557-0d421291f5d3.mp4
+
+<br/>
+
+### Example of [HttpDELETE]:
+https://user-images.githubusercontent.com/66841718/148311047-eda2909f-a036-4f48-98a2-d67c0e83a1f7.mp4
 
 
 
